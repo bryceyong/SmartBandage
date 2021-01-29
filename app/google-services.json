@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931182416879",
+    "project_id": "ble-java",
+    "storage_bucket": "ble-java.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931182416879:android:113d879ac1e1b6398e5c1a",
+        "android_client_info": {
+          "package_name": "com.example.blejava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931182416879-r25e70k2rfrms4asmua2f5oar2odnd4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWg4uFfjwMNupUSFAr6RNTkR6cm5lJN0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931182416879-r25e70k2rfrms4asmua2f5oar2odnd4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
